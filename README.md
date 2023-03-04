@@ -12,3 +12,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nullandrei&show_icons=true&theme=dark&locale=en&layout=compact" alt="nullandrei" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nullandrei&show_icons=true&theme=dark&locale=en" alt="nullandrei" /></p>
+
+<p>&nbsp;<img align="down" src="https://github-readme-stats.vercel.app/api?username=wh04m1h3r3&show_icons=true&locale=en" alt="wh04m1h3r3" media="(prefers-color-scheme:dark)" /></p>
+SNAKE XD
+<a href="https://discord.gg/S7sb24pCzn" target="_blank"><img src="https://raw.githubusercontent.com/NotYmL/NotYmL/main/lol.svg" alt="snake"></a>
