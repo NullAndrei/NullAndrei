@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
 <h3 align="center">A passionate AI developer</h3>
 
+<iframe src="https://giphy.com/embed/stkTZ52YoroVhKZc1l" width="480" height="424" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/NeighborlyNotaryNYC-artificial-intelligence-roberta-arnone-neighborly-notary-stkTZ52YoroVhKZc1l">via GIPHY</a></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nullandrei&label=Profile%20views&color=0e75b6&style=flat" alt="nullandrei" /> </p>
 
 - 🔭 I’m currently working on **AI Fake Product Review Identification**
