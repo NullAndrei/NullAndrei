@@ -13,5 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nullandrei&show_icons=true&theme=dark&locale=en" alt="nullandrei" /></p>
 
-SNAKE XD
 <a href="https://discord.gg/S7sb24pCzn" target="_blank"><img src="https://raw.githubusercontent.com/NotYmL/NotYmL/main/lol.svg" alt="snake"></a>
