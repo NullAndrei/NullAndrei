@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Andrei</h1>
-<h3 align="center">A passionate AI developer</h3>
+<h1 align="center">Hello World 👋, I'm Andrei</h1>
 
-<h3 align="center"><img src="https://media.tenor.com/akBWvR7nCFUAAAAM/ai-bet-aight-bet.gif" alt="AI_GIF"> </h3>
+<h3 align="center"><img src="https://media.tenor.com/_x9JZHbb7nwAAAAM/sophia-cringe.gif" alt="AI_GIF"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nullandrei&label=Profile%20views&color=0e75b6&style=flat" alt="nullandrei" /> </p>
 
